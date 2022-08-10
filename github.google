@@ -1,7 +1,7 @@
 ! name: Kytaxe
 ! description: Rerank results to remove “copycat” content (e.g. StackOverflow threads or GitHub translations).
 ! public: true
-! author: Goggles 101
+! author: Ktz
 ! avatar: #414040
 
 ! StackOverflow translations
