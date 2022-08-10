@@ -4,6 +4,11 @@
 ! author: Ktz
 ! avatar: #414040
 
+
+$boost=30,site=github.com
+$boost=30,site=gitlab.com
+$boost=20,site=sr.ht
+
 ! StackOverflow translations
 $discard,site=alltodev.com
 $discard,site=amuddycup.com
